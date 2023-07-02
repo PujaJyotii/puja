@@ -4,7 +4,10 @@ pasta
 gulab jamun
 
 momos
-paneer pakoda
+paneer pakoda  
+
+samosa
+cold drink
 
 done
 
